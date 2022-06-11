@@ -1,7 +1,6 @@
 # Payroll-Project
 
 This project demonstrates how to register new Senior and Junior level employees. 
-
 Calculate their benefits, rewards, fins, deductions, tax and net salary payment. 
 
 Recording all salaries by detail in MySql database and ability of extracting particular employee info such as overtime, tax deduction, retirement or net salary, etc as needed.
